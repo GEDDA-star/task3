@@ -1,0 +1,55 @@
+{
+ "data": {
+   "image":"images/manoj.png",
+   "name": "Gedda Manoj",
+   "mail":"manojgedda11@gmail.com",
+   "PhoneNumber":"9133663280",
+   "address":"mallikarjun peta akulavari street"
+ },
+   "trainers": [
+  {
+  "image":"images/manoj.png",
+   "name": "Manoj",
+   "phonenumber": "23456789098",
+   "salari": "46000"
+  }
+ ],
+ "ssc": [
+  {
+    "object":"To secure a challenging position where I can effectively contribute my skills in that particular job, possessing competent Technical skills."
+    
+   } ,
+  {
+  "Degree":"  MCA",
+  "institution": "velagapudi ramakrishna siddhartha engineering college",
+  "yearofpassing": "2022",
+  "marks" : "8.7"
+  
+ },
+ {
+  "Degree":"  BCA",
+  "institution": "KAKARAPARTHI BHAVANARAYANA COLLEGE",
+  "yearofpassing": "2019",
+  "marks" : "84.0"
+ 
+ },
+ {
+  "Degree":"  MEC",
+  "institution": "P B SIDDHARTHA COLLEGE",
+  "yearofpassing": "2016",
+  "marks" : "83.2"
+ 
+ },
+ {
+  "Degree":" SSC",
+  "institution": "K C S R ENGLISH MEDIUM SCHOOL",
+  "yearofpassing": "2014",
+  "marks" : "8.2"
+ 
+ }
+ ],
+ "Skills":
+ { 
+"FrontEnd":["HTML"," CSS"," BOOT STARP"],
+"BackEnd":["C"," JAVA"," JAVASCRIPT"," PYTHON"]}
+}
